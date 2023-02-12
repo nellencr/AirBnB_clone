@@ -263,7 +263,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Lucia Matlakala</summary>
     <ul>
     <li><a href="https://www.github.com/aysuarex">Github</a></li>
     <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
@@ -271,7 +271,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>Nela Komane</summary>
     <ul>
     <li><a href="https://www.github.com/lexxyla">Github</a></li>
     <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
